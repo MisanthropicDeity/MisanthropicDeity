@@ -7,10 +7,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=misanthropicdeity.misanthopicdeity)
 
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
 Hello world, 
 I'm Vidhu Shikhar Joshi, a passionate coding enthusiast, love to build solutions for real world problems. I have relevant experience with Backend Development and server side management. My intrests include Machine learning, competitive programing and Web Development. 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
+
   
 - 
 - 📝 [Resume](https://drive.google.com/drive/u/0/my-drive)
