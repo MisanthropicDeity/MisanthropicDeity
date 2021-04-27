@@ -12,7 +12,7 @@ Hello world,
 I'm Vidhu Shikhar Joshi, a passionate coding enthusiast, love to build solutions for real world problems. I have relevant experience with Backend Development and server side management. My intrests include Machine learning, competitive programing and Web Development. 
 
   
-- 📝 [Resume](https://drive.google.com/drive/u/0/my-drive)
+- 📝 [Resume](https://drive.google.com/file/d/1t1LqmluPLtkuH0N-vr6wTsXy11eFTUw_/view?usp=sharing)
 
 
 
