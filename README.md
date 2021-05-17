@@ -25,11 +25,18 @@ I'm Vidhu Shikhar Joshi, a passionate coding enthusiast, love to build solutions
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
-
-
-
 📈 My GitHub Stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=misanthropicdeity&show_icons=true&theme=gotham&count_private=true" alt="VidhuShikharJoshi" />
+  
+
+  
+  
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
+
 
